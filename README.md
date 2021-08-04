@@ -1,4 +1,4 @@
-# Refactoring Test 
+# DAVID BISHOP Test 
 The test consists in refactoring the ProductService class, specifically the AddProduct method, with a particular focus on SOLID principles, asynchronous programming best practices, 
 code readability/maintainability, minimizing cyclomatic complexity and optimizing performance.
 As part of the test, the candidate is asked to implement at least 1 unit test (the happy path) for the AddProduct method in the ProductService class.
